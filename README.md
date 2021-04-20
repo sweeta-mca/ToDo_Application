@@ -1,3 +1,2 @@
 # ToDo_Application
-## Technologies used
-### Html, Css, Javascript and bootstrap
+### Technologies used : Html, Css, Javascript and bootstrap
