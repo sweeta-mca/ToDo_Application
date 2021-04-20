@@ -1,0 +1,13 @@
+.header{    
+    text-align: center;  
+}
+
+.section{
+    margin-top: 50px;
+}
+
+.action{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;    
+}
